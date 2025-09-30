@@ -254,9 +254,7 @@ ModuleNotFoundError: No module named 'sentence_transformers'
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -265,12 +263,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - FAISS for efficient vector search
 - FastAPI for the web framework
 
-## 📞 Support
 
-For questions or issues:
-1. Check the troubleshooting section
-2. Review API documentation at `/docs`
-3. Create an issue in the repository
 
 ---
 
