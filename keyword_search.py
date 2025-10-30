@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple Keyword Search Demo for Medical Notes
+Simple Keyword Search for Medical Notes
 """
 from app.faiss_db import FAISSVectorDB
 
