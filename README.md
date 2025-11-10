@@ -8,7 +8,7 @@ This project demonstrates a real-world solution for digitizing handwritten medic
 
 ## ✨ Features
 
-- **📄 Document Digitization**: Converts handwritten notes to structured text using AWS Textract
+- **📄 Document Digitization**: Converts handwritten notes to structured text using AWS Textracts
 - **🧠 AI-Powered Search**: Semantic search using sentence transformers and FAISS vector database
 - **🔍 Keyword Search**: Fast keyword-based document retrieval
 - **🏥 Medical Entity Recognition**: Extracts medical terms, conditions, and medications
