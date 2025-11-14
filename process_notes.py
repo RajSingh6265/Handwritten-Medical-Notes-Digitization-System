@@ -5,6 +5,7 @@ from app.faiss_db import FAISSVectorDB
 import pandas as pd
 
 def process_all_images():
+
     """Process all images in the data/images directory"""
     
     # Initialize services
